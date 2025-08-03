@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Flipkart>
+    <Home>
+        <ForYou>
+            <Item class="recommended-smartphone">
+                <Name>Recommended Smartphone</Name>
+                <Price>15999</Price>
+                <Brand>Realme</Brand>
+            </Item>
+            <Item class="wireless-earbuds">
+                <Name>Wireless Earbuds</Name>
+                <Price>2999</Price>
+                <Brand>boAt</Brand>
+            </Item>
+        </ForYou>
+
+        <Fashion>
+            <Item class="mens-t-shirt">
+                <Name>Men's T-Shirt</Name>
+                <Price>499</Price>
+                <Brand>Roadster</Brand>
+            </Item>
+            <Item class="womens-dress">
+                <Name>Women's Dress</Name>
+                <Price>999</Price>
+                <Brand>Tokyo Talkies</Brand>
+            </Item>
+        </Fashion>
+
+        <Mobile>
+            <Item class="redmi-note-13">
+                <Name>Redmi Note 13</Name>
+                <Price>17999</Price>
+                <Brand>Xiaomi</Brand>
+            </Item>
+            <Item class="samsung-galaxy-m14">
+                <Name>Samsung Galaxy M14</Name>
+                <Price>13999</Price>
+                <Brand>Samsung</Brand>
+            </Item>
+        </Mobile>
+
+        <Electronics>
+            <Item class="smart-led-tv">
+                <Name>Smart LED TV</Name>
+                <Price>24999</Price>
+                <Brand>OnePlus</Brand>
+            </Item>
+            <Item class="laptop">
+                <Name>Laptop</Name>
+                <Price>48999</Price>
+                <Brand>Dell</Brand>
+            </Item>
+        </Electronics>
+
+        <Appliances>
+            <Item class="washing-machine">
+                <Name>Washing Machine</Name>
+                <Price>18999</Price>
+                <Brand>LG</Brand>
+            </Item>
+            <Item class="microwave-oven">
+                <Name>Microwave Oven</Name>
+                <Price>7999</Price>
+                <Brand>IFB</Brand>
+            </Item>
+        </Appliances>
+
+        <HomeCategory>
+            <Item class="wall-decor">
+                <Name>Wall Decor</Name>
+                <Price>1499</Price>
+                <Type>Art Print</Type>
+            </Item>
+            <Item class="bed-sheet">
+                <Name>Bed Sheet</Name>
+                <Price>799</Price>
+                <Type>Cotton</Type>
+            </Item>
+        </HomeCategory>
+
+        <FoodAndHealth>
+            <Item class="protein-powder">
+                <Name>Protein Powder</Name>
+                <Price>1599</Price>
+                <Brand>MuscleBlaze</Brand>
+            </Item>
+            <Item class="health-drink">
+                <Name>Health Drink</Name>
+                <Price>349</Price>
+                <Brand>Horlicks</Brand>
+            </Item>
+        </FoodAndHealth>
+    </Home>
+
+    <Loan>
+        <PersonalLoan>
+            <Amount>100000</Amount>
+            <Interest>11%</Interest>
+            <EMI>2500</EMI>
+        </PersonalLoan>
+    </Loan>
+
+    <Travel>
+        <Bus>
+            <Date>2025-08-10</Date>
+            <Price>500</Price>
+            <Person>1</Person>
+        </Bus>
+        <Train>
+            <Date>2025-08-11</Date>
+            <Price>1200</Price>
+            <Person>2</Person>
+        </Train>
+        <Flight>
+            <Date>2025-08-12</Date>
+            <Price>7500</Price>
+            <Person>1</Person>
+            <Hotel>
+                <Price>3000</Price>
+                <Date>2025-08-12</Date>
+                <Person>1</Person>
+            </Hotel>
+        </Flight>
+    </Travel>
+
+    <Grocery>
+        <CookingEssential>
+            <Item class="oil">
+                <Name>Oil</Name>
+                <Price>150</Price>
+                <Brand>Fortune</Brand>
+                <Quantity>1L</Quantity>
+            </Item>
+            <Item class="salt">
+                <Name>Salt</Name>
+                <Price>25</Price>
+                <Brand>Tata</Brand>
+                <Quantity>1Kg</Quantity>
+            </Item>
+        </CookingEssential>
+
+        <HouseholdSupplies>
+            <Item class="detergent">
+                <Name>Detergent</Name>
+                <Price>180</Price>
+                <Brand>Surf Excel</Brand>
+                <Quantity>1Kg</Quantity>
+            </Item>
+            <Item class="cleaner">
+                <Name>Cleaner</Name>
+                <Price>75</Price>
+                <Brand>Lizol</Brand>
+                <Quantity>500ml</Quantity>
+            </Item>
+        </HouseholdSupplies>
+
+        <PersonalCare>
+            <Item class="shampoo">
+                <Name>Shampoo</Name>
+                <Price>120</Price>
+                <Brand>Clinic Plus</Brand>
+                <Quantity>340ml</Quantity>
+            </Item>
+            <Item class="soap">
+                <Name>Soap</Name>
+                <Price>30</Price>
+                <Brand>Lifebuoy</Brand>
+                <Quantity>100g</Quantity>
+            </Item>
+        </PersonalCare>
+
+        <PackagedFood>
+            <Item class="biscuits">
+                <Name>Biscuits</Name>
+                <Price>20</Price>
+                <Brand>Parle-G</Brand>
+                <Quantity>250g</Quantity>
+            </Item>
+            <Item class="snacks">
+                <Name>Snacks</Name>
+                <Price>35</Price>
+                <Brand>Kurkure</Brand>
+                <Quantity>90g</Quantity>
+            </Item>
+        </PackagedFood>
+
+        <FoodieAccessories>
+            <Item class="spoons">
+                <Name>Spoons</Name>
+                <Price>99</Price>
+                <Brand>Milton</Brand>
+                <Quantity>Set of 6</Quantity>
+            </Item>
+            <Item class="plates">
+                <Name>Plates</Name>
+                <Price>299</Price>
+                <Brand>Cello</Brand>
+                <Quantity>Set of 4</Quantity>
+            </Item>
+        </FoodieAccessories>
+    </Grocery>
+</Flipkart>
